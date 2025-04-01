@@ -1,6 +1,8 @@
 # GlassTerminalJS
 A customizable, glass-styled vintage terminal component for web applications.
 
+Check out the [live demo](https://jnuvola.github.io/GlassTerminalJS/example.html) to see GlassTerminalJS in action.
+
 ### Configuration Options
 
 You can customize the terminal by passing options to the constructor:
